@@ -1,0 +1,6 @@
+{
+  "name": "OpportunityHub",
+  "description": "Comprehensive opportunity discovery, application tracking, personalized builder profiles, and deadline management powered by Neon PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
